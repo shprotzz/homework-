@@ -1,0 +1,55 @@
+.customInput {
+  padding: 15px;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.customInput1 {
+  padding: 10px;
+  border-radius: 7px;
+  margin-top: 0;
+  margin: auto;
+  background-color: lightgray;
+  border-width: 2px;
+  border-color: black;
+  max-width: 30%;
+}
+
+.customButton {
+  background-color: chocolate;
+  padding: 7px 14px;
+  text-decoration: cornsilk;
+  color: aliceblue;
+  border-radius: 15px;
+}
+
+.customButton1 {
+  background-color: purple;
+  padding: 5px 10px;
+  text-decoration: cornsilk;
+  color: aliceblue;
+  border-radius: 15px;
+  border-width: 0;
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+}
+
+.parent {
+  display: flex;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.linka {
+  margin: auto;
+  display: block;
+  background-color: purple;
+  color: white;
+  padding: 15px;
+  border-radius: 7px;
+  text-decoration: cornsilk;
+}
